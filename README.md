@@ -56,3 +56,4 @@ Astro            6 mins          ▒░░░░░░░░░░░░░░�
 
 ![GitHub followers](https://img.shields.io/github/followers/toothlesshavebun)
 ![GitHub User's stars](https://img.shields.io/github/stars/toothlesshavebun)
+![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1qpef.svg)
