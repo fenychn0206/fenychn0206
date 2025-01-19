@@ -26,7 +26,7 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 
 :balloon:Have a nice day~
 
-#### :book: Latest blog posts
+#### :book: Latest blog posts ![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1qpef.svg)
 
 <!-- BLOG-POST-LIST:START -->
 - [险过 CSP-J 2024 心路历程](https://blog.setbun.com/p/20241005.html)
@@ -56,4 +56,3 @@ Markdown         26 mins         ▓░░░░░░░░░░░░░░�
 
 ![GitHub followers](https://img.shields.io/github/followers/toothlesshavebun)
 ![GitHub User's stars](https://img.shields.io/github/stars/toothlesshavebun)
-![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1qpef.svg)
