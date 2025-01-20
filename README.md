@@ -45,11 +45,11 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 <!--START_SECTION:waka-->
 
 ```txt
-Other            15 hrs 41 mins  █████████████████████▓░░░   86.42 %
-TypeScript       28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Git Config       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-C++              26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Markdown         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Other         14 hrs 26 mins  ██████████████████████▓░░   90.96 %
+Markdown      24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Git Config    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Vue.js        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+HTML          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
