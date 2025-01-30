@@ -45,11 +45,9 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 <!--START_SECTION:waka-->
 
 ```txt
-C++        1 hr 47 mins    ██████████████████████▒░░   88.84 %
-Python     13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C++     1 hr 47 mins    █████████████████████████   99.92 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
