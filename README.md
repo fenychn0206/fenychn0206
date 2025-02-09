@@ -45,7 +45,7 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 <!--START_SECTION:waka-->
 
 ```txt
-C++   1 hr 12 mins    █████████████████████████   100.00 %
+C++   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
