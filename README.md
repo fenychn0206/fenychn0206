@@ -1,13 +1,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
-  <br />
-  <br />
-  <a href="https://twitter.com/FrederickAsYou"><img src="https://img.shields.io/badge/X(Twitter)-%40FrederickAsYou-black?logo=X"></img></a>
-  <a href="https://www.youtube.com/@justcodelife17"><img src="https://img.shields.io/badge/Youtube-%40justcodelife17-red?logo=Youtube"></img></a>
-  <a href="https://www.facebook.com/FrederickAsYou"><img src="https://img.shields.io/badge/Facebook-%40FrederickAsYou-blue?logo=facebook"></img></a>
-  <a href="https://fairy.id/@bundragon"><img src="https://img.shields.io/badge/Mastodon-%40bundragon%40fairy.id-purple?logo=mastodon&logoColor=white"></a>
-  <a href="https://blog.ohdragonboi.cn"><img src="https://img.shields.io/badge/New%20Blog-blog.ohdragonboi.cn-green?logo=blogger&logoColor=white"></a>
-  </img></a>
 </div>
 
 <br />
@@ -26,7 +18,11 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 
 :balloon:Have a nice day~
 
-#### :book: Latest blog posts ![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1qpef.svg)
+#### :hammer: Skills
+
+![Frederick's Skills](https://skillicons.dev/icons?perline=14&i=apple,astro,bash,cpp,cloudflare,codepen,css,discord,docker,dotnet,figma,git,github,githubactions,html,js,latex,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,postgres,powershell,pycharm,py,react,svg,twitter,ts,ubuntu,vercel,vite,vscode,workers,yarn)
+
+#### :book: Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [险过 CSP-J 2024 心路历程](https://blog.setbun.com/p/20241005.html)
@@ -35,10 +31,6 @@ If you want to know more about me, please visit [my blog](https://www.setbun.com
 - [推荐几个适用于竞赛的 C++ 模板库](https://blog.setbun.com/p/20240820.html)
 - [新加坡与印度尼西亚九日游记](https://blog.setbun.com/p/20240819.html)
 <!-- BLOG-POST-LIST:END -->
-
-#### :hammer: Opensource
-
-- [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
 
 #### :abc: Code Stats
 
@@ -49,6 +41,3 @@ C++   4 mins          ███████████████████�
 ```
 
 <!--END_SECTION:waka-->
-
-![GitHub followers](https://img.shields.io/github/followers/toothlesshavebun)
-![GitHub User's stars](https://img.shields.io/github/stars/toothlesshavebun)
