@@ -16,7 +16,7 @@ C++   4 mins          ███████████████████�
 
 I'm a student from Chongqing, China. My full name is Frederick Chen. Focus on **competitive programming**. In my spare time, I'll write some interesting blog posts and some interesting projects.
 
-![Frederick's Skills](https://skillicons.dev/icons?perline=14&i=apple,astro,bash,cpp,cloudflare,codepen,css,discord,docker,dotnet,figma,git,github,githubactions,html,js,latex,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,postgres,powershell,pycharm,py,react,svg,twitter,ts,ubuntu,vercel,vite,vscode,workers,yarn)
+![Frederick's Skills](https://skillicons.dev/icons?&i=apple,astro,bash,cpp,cloudflare,codepen,css,discord,docker,dotnet,figma,git,github,githubactions,html,js,latex,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,postgres,powershell,pycharm,py,react,svg,twitter,ts,ubuntu,vercel,vite,vscode,workers,yarn)
 
 ### Latest blog posts
 
