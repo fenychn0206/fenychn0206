@@ -7,8 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++    1 hr 30 mins    ███████████████████████▓░   95.26 %
-HTML   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
