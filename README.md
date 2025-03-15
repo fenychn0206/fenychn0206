@@ -7,9 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       1 hr 51 mins    █████████████████████████   99.70 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
