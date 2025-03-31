@@ -19,7 +19,7 @@ I'm a student from Chongqing, China. My full name is Frederick Chen. Focus on **
 
 [![Frederick's Skills](https://skillicons.dev/icons?&i=apple,astro,bash,cpp,cloudflare,codepen,css,discord,docker,dotnet,figma,git,github,githubactions,html,js,latex,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,postgres,powershell,pycharm,py,react,svg,twitter,ts,ubuntu,vercel,vite,vscode,workers,yarn)](https://github.com/ToothlessHaveBun)
 
-### Latest blog posts [\[Let's jump in!\]](https://www.ohdragonboi.cn/)
+### `zh-cn` Latest blog posts [\[Let's jump in!\]](https://www.ohdragonboi.cn/)
 
 <!-- BLOG-POST-LIST:START -->
 - [险过 CSP-J 2024 心路历程](https://blog.setbun.com/p/20241005.html)
