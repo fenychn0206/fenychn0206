@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Sketch Drawing   4 mins          █████████████████████████   100.00 %
+Markdown         49 mins         ███████████▒░░░░░░░░░░░░░   44.93 %
+TypeScript       25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
+Other            16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
+CSS              9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Sketch Drawing   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
