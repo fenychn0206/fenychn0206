@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Sketch Drawing   41 mins         ███████████████░░░░░░░░░░   59.38 %
-Markdown         23 mins         ████████▒░░░░░░░░░░░░░░░░   33.22 %
-Astro            3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Other            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
