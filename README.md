@@ -24,10 +24,10 @@ I'm a student from Chongqing, China. My full name is Frederick Chen. Focus on **
 ### `zh-cn` Latest blog posts [\[Let's jump in!\]](https://www.ohdragonboi.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [险过 CSP-J 2024 心路历程](https://blog.setbun.com/p/20241005.html)
-- [CSP-J 2024 总结](https://blog.setbun.com/p/20240921.html)
-- [「随笔」 云盘太重要了](https://blog.setbun.com/p/20240828.html)
-- [推荐几个适用于竞赛的 C++ 模板库](https://blog.setbun.com/p/20240820.html)
-- [新加坡与印度尼西亚九日游记](https://blog.setbun.com/p/20240819.html)
+- [什么？又更换博客框架了（暨一个草率的博客 2 周年记）](https://ohdragonboi.cn/posts/why-update-blog/)
+- [推荐几个适用于竞赛的 C++ 模板库](https://ohdragonboi.cn/posts/oi-h-recommend/)
+- [【题解】 『FLA - I』冲云霄](https://ohdragonboi.cn/posts/solution-luogu-lgr-195-div3-t1/)
+- [【题解】 [COCI 2023/2024 No.2]Zatopljenje](https://ohdragonboi.cn/posts/solution-luogu-coci202320242zatopljenje/)
+- [【随笔】备份太重要了](https://ohdragonboi.cn/posts/icloud-gooood-backup-weeeeelll/)
 <!-- BLOG-POST-LIST:END -->
  
