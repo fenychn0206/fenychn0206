@@ -16,4 +16,4 @@ jobs:
       - name: Pull in Buntalk posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.setbun.com/atom.xml"
+          feed_list: "https://www.ohdragonboi.cn/atom.xml"
