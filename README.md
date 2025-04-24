@@ -33,6 +33,7 @@ I'm a student from Chongqing, China. My full name is Frederick Chen (Fengyi Chen
 [![Frederick's Skills](https://skillicons.dev/icons?&i=apple,astro,bash,cpp,cloudflare,codepen,css,discord,docker,dotnet,figma,git,github,githubactions,html,js,latex,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,postgres,powershell,pycharm,py,react,svg,twitter,ts,ubuntu,vercel,vite,vscode,workers,yarn)](https://github.com/ToothlessHaveBun)
 
 <div align="center">
+  <h1>Personal GitHub Stats</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=ToothlessHaveBun&theme=codeSTACKr" width="300px" title="Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToothlessHaveBun&layout=compact&theme=codeSTACKr" width="237px" title="Github Stats" />
   <br>
