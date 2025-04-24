@@ -25,7 +25,11 @@ I'm a student from Chongqing, China. My full name is Frederick Chen (Fengyi Chen
 ### Latest blog posts / 博客最新文章列表
 
 <!-- BLOG-POST-LIST:START -->
- - anything...
+- [什么？又更换博客框架了（暨一个草率的博客 2 周年记）](https://ohdragonboi.cn/posts/why-update-blog/)
+- [推荐几个适用于竞赛的 C++ 模板库](https://ohdragonboi.cn/posts/oi-h-recommend/)
+- [【题解】 『FLA - I』冲云霄](https://ohdragonboi.cn/posts/solution-luogu-lgr-195-div3-t1/)
+- [【题解】 [COCI 2023/2024 No.2]Zatopljenje](https://ohdragonboi.cn/posts/solution-luogu-coci202320242zatopljenje/)
+- [【随笔】备份太重要了](https://ohdragonboi.cn/posts/icloud-gooood-backup-weeeeelll/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Skills / 技能
