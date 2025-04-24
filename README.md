@@ -11,14 +11,12 @@
   </p>
 </div>
 
-
----
-
 > [!WARNING]
 > 因为个人学业原因，所有项目暂停维护，并且近期将不会有 commit，感谢理解。Due to personal academic reasons, all projects have been temporarily suspended for maintenance, and there will be no commit in the near future. Thank you for your understanding.
 
+---
 
-I'm a student from Chongqing, China. My full name is Frederick Chen (Fengyi Chen). . I'm focusing on **competitive programming**. In my spare time, I'll write some interesting blog posts and some interesting projects. Thanks for following me!
+I'm a student from Chongqing, China. My full name is Frederick Chen (Fengyi Chen). The co-founder of @AlignPixel-Dev. I'm focusing on **competitive programming**. In my spare time, I'll write some interesting blog posts and some interesting projects. Thanks for following me!
 
 ### Working on / 贡献或维护的项目
 
