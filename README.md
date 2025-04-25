@@ -17,7 +17,8 @@
 ---
 
 :wave: Hello there, my name is **Frederick Chen**, a student developer from China :cn: passionate about [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming). In my spare time, I enjoy developing some interesting projects, writing blog posts. I'm also the co-founder and CEO of [AlignPixel](https://github.com/AlignPixel-Dev).
-﻿
+
+
 It's very glad to meet you! To contact me, feel free to email me at [contact@ohdragonboi.cn](mailto:contact@ohdraognboi.cn). Looking forward to connecting!
 
 <details>
