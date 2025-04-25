@@ -12,11 +12,20 @@
 </div>
 
 > [!WARNING]
-> 因为个人学业原因，所有项目暂停维护，并且近期将不会有 commit，感谢理解。Due to personal academic reasons, all projects have been temporarily suspended for maintenance, and there will be no commit in the near future. Thank you for your understanding.
+> Due to personal academic reasons, all projects have been temporarily suspended for maintenance, and there will be no commit in the near future. Thank you for your understanding. 因为个人学业原因，所有项目暂停维护，并且近期将不会有 commit，感谢理解。
 
 ---
 
-I'm a student from Chongqing, China. My full name is Frederick Chen (Fengyi Chen). The co-founder of @AlignPixel-Dev. I'm focusing on **competitive programming**. In my spare time, I'll write some interesting blog posts and some interesting projects. Thanks for following me!
+:wave: Hello, my name is **Frederick Chen**, a student developer from China:cn: passionate about [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming). In my spare time, I enjoy developing some interesting projects, writing blog posts. I'm also the co-founder and CEO of [AlignPixel](https://github.com/AlignPixel-Dev).
+﻿
+It's very glad to meet you! To contact me, feel free to email me at [contact@ohdragonboi.cn](mailto:contact@ohdraognboi.cn). Looking forward to connecting!
+
+<details>
+<summary>中文介绍（翻译自 Deepseek，无 Markdown 渲染）</summary>
+大家好，我叫Frederick Chen，是一名来自中国的学生开发人员，对竞争性编程充满热情。在业余时间，我喜欢开发一些有趣的项目，写博客。我也是AlignPixel的联合创始人兼首席执行官
+
+很高兴见到你！如需联系我，请随时发送电子邮件至contact@ohdragonboi.cn.期待连接！
+</details>
 
 ### Working on / 贡献或维护的项目
 
