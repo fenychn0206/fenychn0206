@@ -6,7 +6,8 @@
       <a href="https://www.ohdragonboi.cn">blog</a> .
       <a href="https://elk.zone/fairy.id/@bundragon">mastodon</a> .
       <a href="https://x.com/wczffL_503">twitter</a> .
-      <a href="https://t.me/wczffl_503">telegram</a>
+      <a href="https://t.me/wczffl_503">telegram</a> .
+      <a href="https://t.me/wczffl_404">telegram channel</a>
     </samp>
   </p>
 </div>
