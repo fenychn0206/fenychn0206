@@ -44,6 +44,15 @@ It's very glad to meet you! To contact me, feel free to email me at [contact@ohd
 ### Daily development breakdown / 每日开发明细
 
 <!--START_SECTION:waka-->
+
+```txt
+Astro        19 mins         ████████████▓░░░░░░░░░░░░   50.07 %
+Markdown     12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.80 %
+TypeScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+HTML         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Skills / 技能
