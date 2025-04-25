@@ -31,6 +31,11 @@ It's very glad to meet you! To contact me, feel free to email me at [contact@ohd
 
  - [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine)
 
+### Joined Community / 加入的社区
+
+- [Doocs](https://github.com/doocs) - 微小的贡献
+- [Hack Club](https://github.com/enterprises/hack-club) - 打杂工
+
 ### Latest blog posts / 博客最新文章列表
 
 <!-- BLOG-POST-LIST:START -->
