@@ -52,11 +52,11 @@ It's very glad to meet you! To contact me, feel free to email me at [contact@ohd
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        19 mins         ████████████▓░░░░░░░░░░░░   50.07 %
-Markdown     12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.80 %
-TypeScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-HTML         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Markdown     53 mins         ████████████████▓░░░░░░░░   66.20 %
+Astro        19 mins         ██████░░░░░░░░░░░░░░░░░░░   24.46 %
+TypeScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+HTML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
