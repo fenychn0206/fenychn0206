@@ -41,6 +41,11 @@ It's very glad to meet you! To contact me, feel free to email me at [contact@ohd
 - [【随笔】备份太重要了](https://ohdragonboi.cn/posts/icloud-gooood-backup-weeeeelll/)
 <!-- BLOG-POST-LIST:END -->
 
+### Daily development breakdown / 每日开发明细
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Skills / 技能
 
 [![Frederick's Skills](https://skillicons.dev/icons?&i=apple,astro,bash,cpp,cloudflare,codepen,css,discord,docker,dotnet,figma,git,github,githubactions,html,js,latex,md,mastodon,mongodb,nextjs,nodejs,notion,npm,ps,pnpm,postgres,powershell,pycharm,py,react,svg,twitter,ts,ubuntu,vercel,vite,vscode,workers,yarn)](https://github.com/ToothlessHaveBun)
