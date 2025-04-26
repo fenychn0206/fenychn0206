@@ -69,6 +69,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
   <h1>Personal GitHub Stats</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=ToothlessHaveBun&theme=codeSTACKr" width="300px" title="Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToothlessHaveBun&layout=compact&theme=codeSTACKr" width="237px" title="Github Stats" />
-  <br>
+  <br />
+  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=ToothlessHaveBun&theme=juicyfresh&column=6&margin-w=15&margin-h=15&no-frame=true" title="Github Stats" />
 </div>
