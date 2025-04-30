@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
   <p align="center">
     <samp>
