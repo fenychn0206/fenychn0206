@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
   <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
   <p align="center">
     <samp>
@@ -11,9 +11,6 @@
     </samp>
   </p>
 </div>
-
-> [!WARNING]
-> Due to personal academic reasons, all projects have been temporarily suspended for maintenance, and there will be no commit in the near future. Thank you for your understanding. 因为个人学业原因，所有项目暂停维护，并且近期将不会有 commit，感谢理解。
 
 ---
 
