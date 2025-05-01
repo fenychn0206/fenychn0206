@@ -51,11 +51,11 @@ It's very glad to meet you! To contact me, feel free to email me at [contact@ohd
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         41 mins         ██████████▒░░░░░░░░░░░░░░   40.96 %
-HTML             23 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 %
-C++              15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-TypeScript       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Sketch Drawing   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Sketch Drawing   1 hr 27 mins    ███████████░░░░░░░░░░░░░░   43.48 %
+Markdown         41 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+HTML             27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+C++              15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+TypeScript       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
 ```
 
 <!--END_SECTION:waka-->
