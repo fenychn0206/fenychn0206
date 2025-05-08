@@ -1,5 +1,3 @@
-![Billboard@2x](https://github.com/user-attachments/assets/37661a0e-5c83-4efa-b984-2b858f8f7c87)
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
   <p align="center">
