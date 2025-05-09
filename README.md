@@ -1,21 +1,5 @@
 ![thumbnail](https://jsd.onmicrosoft.cn/gh/ToothlessHaveBun/picx-images-hosting@master/v2-661776cfeadafe411db05d8bd3f55c25_1440w-(1).7axdrdtcbz.webp)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
-  <p align="center">
-    <samp>
-      <a href="https://fredcss.dev">portfolio</a> .
-      <a href="https://www.ohdragonboi.cn">blog</a> .
-      <a href="https://elk.zone/fairy.id/@bundragon">mastodon</a> .
-      <a href="https://x.com/wczffL_503">twitter</a> .
-      <a href="https://t.me/wczffl_503">telegram</a> .
-      <a href="https://t.me/wczffl_404">telegram channel</a>
-    </samp>
-  </p>
-</div>
-
----
-
 :wave: Hello there, my name is **Frederick Chen**, a student developer from China :cn: passionate about [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming). In my spare time, I enjoy developing some interesting projects, writing blog posts. I'm also the co-founder and CEO of [AlignPixel](https://github.com/AlignPixel-Dev).
 
 It's very glad to meet you! To contact me, feel free to email me at [contact@ohdragonboi.cn](mailto:contact@ohdraognboi.cn). Looking forward to connecting!
