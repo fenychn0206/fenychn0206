@@ -64,8 +64,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <div align="center">
   <h1>Personal GitHub Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=wczffl-503&theme=codeSTACKr" width="300px" title="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wczffl-503&layout=compact&theme=codeSTACKr" width="237px" title="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toroDragon0206&theme=codeSTACKr" width="300px" title="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toroDragon0206&layout=compact&theme=codeSTACKr" width="237px" title="Github Stats" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=wczffl-503&theme=juicyfresh&column=6&margin-w=10&margin-h=10&no-frame=true" title="Github Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=toroDragon0206&theme=juicyfresh&column=6&margin-w=10&margin-h=10&no-frame=true" title="Github Stats" />
 </div>
