@@ -1,3 +1,5 @@
+![thumbnail](https://jsd.onmicrosoft.cn/gh/ToothlessHaveBun/picx-images-hosting@master/v2-661776cfeadafe411db05d8bd3f55c25_1440w-(1).7axdrdtcbz.webp)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/FrederickAsYou/count.svg"/>
   <p align="center">
