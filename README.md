@@ -37,11 +37,11 @@ It's very glad to meet you! To contact me, feel free to email me at [contact@ohd
 ### Latest blog posts / 博客最新文章列表
 
 <!-- BLOG-POST-LIST:START -->
-- [什么？又更换博客框架了（暨一个草率的博客 2 周年记）](https://ohdragonboi.cn/posts/why-update-blog/)
-- [推荐几个适用于竞赛的 C++ 模板库](https://ohdragonboi.cn/posts/oi-h-recommend/)
-- [【题解】 『FLA - I』冲云霄](https://ohdragonboi.cn/posts/solution-luogu-lgr-195-div3-t1/)
-- [【题解】 [COCI 2023/2024 No.2]Zatopljenje](https://ohdragonboi.cn/posts/solution-luogu-coci202320242zatopljenje/)
-- [【随笔】备份太重要了](https://ohdragonboi.cn/posts/icloud-gooood-backup-weeeeelll/)
+- [什么？又更换博客框架了（暨一个草率的博客 2 周年记）](http://www.ohdragonboi.cn/p/20250405/)
+- [「随笔」 数据备份太重要了](http://www.ohdragonboi.cn/p/20240828/)
+- [「题解」 『FLA - I』冲云霄](http://www.ohdragonboi.cn/p/20240803/)
+- [「题解」 [COCI 2023/2024 No.2]Zatopljenje](http://www.ohdragonboi.cn/p/20240728/)
+- [「随笔」 WeChat（微信国际服务）与微信（国内服务）的《隐私协议》的天壤之别（其中最让人愤怒的）](http://www.ohdragonboi.cn/p/20240713/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Daily development breakdown / 每日开发明细
