@@ -35,11 +35,10 @@ It's very glad to meet you! To contact me, feel free to email me at [contact@ohd
 <!--START_SECTION:waka-->
 
 ```txt
-C++           1 hr 24 mins    ███████████████░░░░░░░░░░   60.54 %
-YAML          46 mins         ████████▒░░░░░░░░░░░░░░░░   32.85 %
-CSS           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-JSON          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Markdown      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+YAML       14 mins         █████████████████████▓░░░   86.77 %
+Markdown   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+JSON       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
