@@ -35,7 +35,9 @@ It's very glad to meet you! To contact me, feel free to email me at [contact@ohd
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++     22 mins         █████████████████████▒░░░   85.78 %
+YAML    3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
