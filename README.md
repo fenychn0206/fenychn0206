@@ -35,8 +35,8 @@ It's very glad to meet you! To contact me, feel free to email me at [contact@ohd
 <!--START_SECTION:waka-->
 
 ```txt
-C++    7 mins          ████████████████████████▓   99.30 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+JSON   7 mins          ████████████▓░░░░░░░░░░░░   50.07 %
+C++    7 mins          ████████████▒░░░░░░░░░░░░   49.93 %
 ```
 
 <!--END_SECTION:waka-->
