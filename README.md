@@ -35,8 +35,11 @@ It's very glad to meet you! To contact me, feel free to email me at [contact@ohd
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   7 mins          ████████████▓░░░░░░░░░░░░   50.07 %
-C++    7 mins          ████████████▒░░░░░░░░░░░░   49.93 %
+YAML             43 mins         ████████████░░░░░░░░░░░░░   48.31 %
+Sketch Drawing   26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.24 %
+Markdown         11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+JSON             7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Bash             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
