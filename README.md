@@ -8,7 +8,7 @@ If you enjoy my projects, you can :star2: star my repositories and :eyes: follow
 
 - [@hackclub](https://github.com/hackclub) team member
 - [@doocs](https://github.com/doocs) team member
-- Leader of [AlignPixel-Dev](https://github.com/AlignPixel-Dev)`
+- Leader of [AlignPixel-Dev](https://github.com/AlignPixel-Dev)
 
 #### :book: Latest blog posts (zh-CN)
 
