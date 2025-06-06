@@ -19,7 +19,6 @@ If you enjoy my projects, you can :star2: star my repositories and :eyes: follow
 - [「题解」 [COCI 2023/2024 No.2]Zatopljenje](http://www.ohdragonboi.cn/p/20240728/)
 - [「随笔」 WeChat（微信国际服务）与微信（国内服务）的《隐私协议》的天壤之别（其中最让人愤怒的）](http://www.ohdragonboi.cn/p/20240713/)
 <!-- BLOG-POST-LIST:END -->
-
 - [Read More…](https://www.ohdragonboi.cn)
 
 ![Email: hey@ohdragonboi.cn](https://img.shields.io/badge/contact-hey%40ohdragonboi.cn-gren?logo=maildotru) ![My stars status](https://img.shields.io/github/stars/fenychn0206)
