@@ -21,7 +21,7 @@ If you enjoy my projects, you can :star2: star my repositories and :eyes: follow
 <!-- BLOG-POST-LIST:END -->
 [Read More…](https://www.ohdragonboi.cn)
 
-![Email: hey@ohdragonboi.cn](https://img.shields.io/badge/contact-hey%40ohdragonboi.cn-gren?logo=maildotru) ![My stars status](https://img.shields.io/github/stars/fenychn0206)
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fenychn0206&theme=codeSTACKr" width="300px" title="Github Stats" />
@@ -29,3 +29,5 @@ If you enjoy my projects, you can :star2: star my repositories and :eyes: follow
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=fenychn0206&theme=juicyfresh&column=6&margin-w=10&margin-h=10&no-frame=true" title="Github Stats" />
 </div>
+
+![Email: hey@ohdragonboi.cn](https://img.shields.io/badge/contact-hey%40ohdragonboi.cn-green?logo=maildotru) ![My stars status](https://img.shields.io/github/stars/fenychn0206)
