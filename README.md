@@ -13,11 +13,11 @@ If you enjoy my projects, you can :star2: star my repositories and :eyes: follow
 #### :book: Latest blog posts (zh-CN)
 
 <!-- BLOG-POST-LIST:START -->
-- [什么？又更换博客框架了（暨一个草率的博客 2 周年记）](http://www.ohdragonboi.cn/p/20250405/)
-- [「随笔」 数据备份太重要了](http://www.ohdragonboi.cn/p/20240828/)
-- [「题解」 『FLA - I』冲云霄](http://www.ohdragonboi.cn/p/20240803/)
-- [「题解」 [COCI 2023/2024 No.2]Zatopljenje](http://www.ohdragonboi.cn/p/20240728/)
-- [「随笔」 WeChat（微信国际服务）与微信（国内服务）的《隐私协议》的天壤之别（其中最让人愤怒的）](http://www.ohdragonboi.cn/p/20240713/)
+- [【记录】换评论了，但是出了一点“意外”——博客第三版评论数据大揭秘](https://blog.ohdragonboi.cn/2025/yFjym0y4)
+- [OI 赛制的实用工具](https://blog.ohdragonboi.cn/2025/CCYlqD5d)
+- [【随笔】“地面湿滑，请小心慢行，注意安全”——重庆夏日防雨指北](https://blog.ohdragonboi.cn/2025/0nWeS7aA)
+- [我在用什么？](https://blog.ohdragonboi.cn/2025/52KuXl6s)
+- [【烧烤】都 2025 年了，还写什么个人博客？](https://blog.ohdragonboi.cn/2025/NeOVoXj4)
 <!-- BLOG-POST-LIST:END -->
 [Read More…](https://blog.ohdragonboi.cn)
 
