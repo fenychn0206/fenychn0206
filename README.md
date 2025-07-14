@@ -13,11 +13,11 @@ If you enjoy my projects, you can :star2: star my repositories and :eyes: follow
 #### :book: Latest blog posts (zh-CN)
 
 <!-- BLOG-POST-LIST:START -->
+- [【记录】尝试抢救评论数据……](https://blog.ohdragonboi.cn/2025/j5iqNHO1)
 - [【记录】换评论了，但是出了一点“意外”——博客第三版评论数据大揭秘](https://blog.ohdragonboi.cn/2025/yFjym0y4)
 - [OI 赛制的实用工具](https://blog.ohdragonboi.cn/2025/CCYlqD5d)
 - [【随笔】“地面湿滑，请小心慢行，注意安全”——重庆夏日防雨指北](https://blog.ohdragonboi.cn/2025/0nWeS7aA)
 - [我在用什么？](https://blog.ohdragonboi.cn/2025/52KuXl6s)
-- [【烧烤】都 2025 年了，还写什么个人博客？](https://blog.ohdragonboi.cn/2025/NeOVoXj4)
 <!-- BLOG-POST-LIST:END -->
 [Read More…](https://blog.ohdragonboi.cn)
 
