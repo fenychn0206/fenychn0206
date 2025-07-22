@@ -1,6 +1,6 @@
 # Frederick Chen (@fenychn0206)
 
-<img src="https://github-readme-stats.vercel.app/api?username=fenychn0206&theme=graywhite&show_icons=true&hide_border=true" align="right" width="390px" title="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=fenychn0206&theme=graywhite&show_icons=true&hide_border=true&count_private=true" align="right" width="390px" title="Github Stats" />
 
 <samp><a href="https://www.ohdragonboi.cn">homepage</a> . <a href="https://blog.ohdragonboi.cn">blog</a> . <a href="https://twitter.com/wczffL_503">twitter</a></samp>
 
