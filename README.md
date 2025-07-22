@@ -1,16 +1,26 @@
-### :balloon: Nice to meet you!
+# Frederick Chen (@fenychn0206)
 
-This is Frederick Chen (a.k.a. FenyChn), a student working on [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming). I'm also a developer, designer, and blogger.
+<img src="https://github-readme-stats.vercel.app/api?username=fenychn0206&theme=graywhite&show_icons=true&hide_border=true" align="right" width="390px" title="Github Stats" />
 
-If you enjoy my projects, you can :star2: star my repositories and :eyes: follow me on GitHub, thanks.
+<samp><a href="https://www.ohdragonboi.cn">homepage</a> . <a href="https://blog.ohdragonboi.cn">blog</a> . <a href="https://twitter.com/wczffL_503">twitter</a></samp>
 
-**I’m …**
+[![wakatime](https://wakatime.com/badge/user/2ede9bd6-eef6-4f46-98ab-d682749d00e0.svg?style=flat-square)](https://wakatime.com/@2ede9bd6-eef6-4f46-98ab-d682749d00e0)
 
 - [@hackclub](https://github.com/hackclub) team member
 - [@doocs](https://github.com/doocs) team member
 - Leader of [AlignPixel-Dev](https://github.com/AlignPixel-Dev)
 
-#### :book: Latest blog posts (zh-CN)
+I'm a student / bug builder / designer / blogger. Currently working on [Competitive Programming](https://en.wikipedia.org/wiki/Competitive_programming). If you like my works, why not give my repo a **star**? I'm very happy to see your support!
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fenychn0206&column=6&margin-w=10&margin-h=10&no-frame=true" title="Github Stats" />
+</div>
+
+## Resent Blog Posts
+
+> [!WARNING]
+> 
+> The blog server has recently had a force majeure failure, and it is being repaired in full swing, and the article archive can be viewed. 博客服务器近期出现不可抗故障，正在全力修复，可查看文章归档。
 
 <!-- BLOG-POST-LIST:START -->
 - [Windows 7 终端手动开启右键粘贴](https://blog.ohdragonboi.cn/2025/lLPQUVY8)
@@ -21,13 +31,3 @@ If you enjoy my projects, you can :star2: star my repositories and :eyes: follow
 <!-- BLOG-POST-LIST:END -->
 [Read More…](https://blog.ohdragonboi.cn)
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fenychn0206&theme=codeSTACKr" width="300px" title="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenychn0206&layout=compact&theme=codeSTACKr" width="237px" title="Github Stats" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=fenychn0206&theme=juicyfresh&column=6&margin-w=10&margin-h=10&no-frame=true" title="Github Stats" />
-</div>
-
-![Email: hey@ohdragonboi.cn](https://img.shields.io/badge/contact-hey%40ohdragonboi.cn-green?logo=maildotru) ![My stars status](https://img.shields.io/github/stars/fenychn0206)
