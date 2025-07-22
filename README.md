@@ -13,7 +13,7 @@
 I'm a student / bug builder / designer / blogger. Currently working on [Competitive Programming](https://en.wikipedia.org/wiki/Competitive_programming). If you like my works, why not give my repo a **star**? I'm very happy to see your support!
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fenychn0206&column=6&margin-w=10&margin-h=10&no-frame=true" title="Github Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fenychn0206&column=6&margin-w=10&margin-h=10&no-frame=true" title="Github Stats" width="550px"/>
 </div>
 
 ## Resent Blog Posts
