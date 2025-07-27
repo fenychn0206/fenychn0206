@@ -23,11 +23,11 @@ I'm a student / bug builder / designer / blogger. Currently working on [Competit
 > The blog server has recently had a force majeure failure, and it is being repaired in full swing, and the article archive can be viewed. 博客服务器近期出现不可抗故障，正在全力修复，可查看文章归档。
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 7 终端手动开启右键粘贴](https://blog.ohdragonboi.cn/2025/lLPQUVY8)
-- [【烧烤】算法竞赛总结，意义在哪？](https://blog.ohdragonboi.cn/2025/FwFiCqLz)
-- [为你的 Artalk 评论添加表情包](https://blog.ohdragonboi.cn/2025/GZ2EcCg7)
-- [【记录】换评论了，但是出了一点“意外”——博客第三版评论数据大揭秘](https://blog.ohdragonboi.cn/2025/yFjym0y4)
-- [OI 赛制的实用工具](https://blog.ohdragonboi.cn/2025/CCYlqD5d)
+- [Windows 7 终端开启右键粘贴](https://fuwari.vercel.app/posts/windows7-terminal-rightclick-paste/)
+- [算法竞赛：为什么要写总结？](https://fuwari.vercel.app/posts/oier-with-review/)
+- [OI 赛制的实用工具](https://fuwari.vercel.app/posts/oi-contest-tools/)
+- [算法竞赛：拥有一个顺手的 IDE · Windows 篇](https://fuwari.vercel.app/posts/algo-ide-windows/)
+- [博客两周年，换框架？](https://fuwari.vercel.app/posts/blog-2nd/)
 <!-- BLOG-POST-LIST:END -->
 [Read More…](https://blog.ohdragonboi.cn)
 
