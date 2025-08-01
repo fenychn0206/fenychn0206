@@ -23,11 +23,11 @@ I'm a student / bug builder / designer / blogger. Currently working on [Competit
 > The blog server has recently had a force majeure failure, and it is being repaired in full swing, and the article archive can be viewed. 博客服务器近期出现不可抗故障，正在全力修复，可查看文章归档。
 
 <!-- BLOG-POST-LIST:START -->
+- [【观影 · 剧透慎入】《南京照相馆》](https://blog.ohdragonboi.cn/posts/movie-dead-to-rights-reveiw/)
 - [Windows 7 终端开启右键粘贴](https://blog.ohdragonboi.cn/posts/windows7-terminal-rightclick-paste/)
 - [算法竞赛：为什么要写总结？](https://blog.ohdragonboi.cn/posts/oier-with-review/)
 - [OI 赛制的实用工具](https://blog.ohdragonboi.cn/posts/oi-contest-tools/)
 - [算法竞赛：拥有一个顺手的 IDE · Windows 篇](https://blog.ohdragonboi.cn/posts/algo-ide-windows/)
-- [博客两周年，换框架？](https://blog.ohdragonboi.cn/posts/blog-2nd/)
 <!-- BLOG-POST-LIST:END -->
 [Read More…](https://blog.ohdragonboi.cn)
 
