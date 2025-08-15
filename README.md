@@ -18,10 +18,6 @@ I'm a student / bug builder / designer / blogger. Currently working on [Competit
 
 ## Resent Blog Posts
 
-> [!WARNING]
-> 
-> The blog server has recently had a force majeure failure, and it is being repaired in full swing, and the article archive can be viewed. 博客服务器近期出现不可抗故障，正在全力修复，可查看文章归档。
-
 <!-- BLOG-POST-LIST:START -->
 - [【观影 · 剧透慎入】《南京照相馆》](https://astro-erudite.vercel.app/blog/movie-dead-to-rights-reveiw/)
 - [Windows 7 终端开启右键粘贴](https://astro-erudite.vercel.app/blog/windows-7-terminal-rightclick/)
