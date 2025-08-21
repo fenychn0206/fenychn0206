@@ -16,7 +16,7 @@ I'm a student / bug builder / designer / blogger. Currently working on [Competit
   <img src="https://github-profile-trophy.vercel.app/?username=fenychn0206&column=6&margin-w=10&margin-h=10&no-frame=true" title="Github Stats" width="550px"/>
 </div>
 
-## Resent Blog Posts
+#### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [【观影 · 剧透慎入】《南京照相馆》](https://blog.ohdragonboi.cn/blog/movie-dead-to-rights-reveiw/)
@@ -27,3 +27,11 @@ I'm a student / bug builder / designer / blogger. Currently working on [Competit
 <!-- BLOG-POST-LIST:END -->
 [Read More…](https://blog.ohdragonboi.cn)
 
+
+---
+
+## Spnsor Me
+
+Your sponsorship means a lot to me. It can help me to maintenance my project and service. If my project helped you, why not to buy a coffee to me?
+
+Choose a platform: [爱发电](https://afdian.com/a/fenychn0206)
