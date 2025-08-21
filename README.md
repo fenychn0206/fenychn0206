@@ -30,7 +30,7 @@ I'm a student / bug builder / designer / blogger. Currently working on [Competit
 
 ---
 
-## Spnsor Me
+## Sponsor Me
 
 Your sponsorship means a lot to me. It can help me to maintenance my project and service. If my project helped you, why not to buy a coffee to me?
 
