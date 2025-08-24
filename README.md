@@ -19,7 +19,7 @@ I'm a student / bug builder / designer / blogger. Currently working on [Competit
 #### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [【深入理解 · 剧透慎入】《南京照相馆》：在战争的废墟上，显影人性的底片](https://blog.ohdragonboi.cn/blog/thinking-of-movie-dead-to-rights/)
+- [《南京照相馆》：在战争的废墟上，显影人性的底片](https://blog.ohdragonboi.cn/blog/thinking-of-movie-dead-to-rights/)
 - [【观影 · 剧透慎入】《南京照相馆》](https://blog.ohdragonboi.cn/blog/movie-dead-to-rights-reveiw/)
 - [Windows 7 终端开启右键粘贴](https://blog.ohdragonboi.cn/blog/windows-7-terminal-rightclick/)
 - [算法竞赛：为什么要写总结？](https://blog.ohdragonboi.cn/blog/algo-review/)
