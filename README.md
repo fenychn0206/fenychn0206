@@ -5,7 +5,7 @@
 ##### 参与的项目 / Projects I've Worked On
 
 - [hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine): Fast, Pure, Elegant. Hexo, Redefined.
-
+- [lps-community-guide](https://github.com/mtrlps-community/lps-community-guide): A wiki by Minecraft Transit Railway mod Let's Play Server China community.
 
 ##### 博文推送 / Writing
 
