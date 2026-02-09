@@ -10,11 +10,11 @@
 ##### 博文推送 / Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [博客三周年：缝缝补补的过去](https://www.ooowl.net/posts/3rd-celebrate/)
 - [观纪录片《苏轼》（下）](https://www.ooowl.net/posts/watching-the-documentary-sushi-part2/)
 - [观纪录片《苏轼》（上）](https://www.ooowl.net/posts/watching-the-documentary-sushi-part1/)
 - [《南京照相馆》：在战争的废墟上，显影人性的底片](https://www.ooowl.net/posts/thinking-of-movie-dead-to-rights/)
 - [观影 |《南京照相馆》](https://www.ooowl.net/posts/movie-dead-to-rights-reveiw/)
-- [Windows 7 终端开启右键粘贴](https://www.ooowl.net/posts/windows-7-terminal-rightclick/)
 <!-- BLOG-POST-LIST:END -->
 [阅读更多…… / Read More…](https://blog.ohdragonboi.cn)
 
