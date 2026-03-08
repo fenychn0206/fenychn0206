@@ -1,6 +1,6 @@
 ## 风亦 / fenychn0206 [![wakatime](https://wakatime.com/badge/user/2ede9bd6-eef6-4f46-98ab-d682749d00e0.svg?style=flat-square)](https://wakatime.com/@2ede9bd6-eef6-4f46-98ab-d682749d00e0) <img align="right" src="https://s2.loli.net/2025/10/29/3kPYRQDGs7ZEmI4.jpg" width="30px">
 
-> Student / ex-OIer / Blogger / Developer
+> Student / ex-OIer / Blogger / Developer / Rail Lover
 
 ##### 参与的项目 / Projects I've Worked On
 
