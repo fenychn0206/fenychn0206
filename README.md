@@ -9,11 +9,11 @@
 ##### 博文推送 / Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 GitHub Action 备份 Artalk 数据至仓库](https://www.ooowl.net/posts/back-up-artalk-data-using-github/)
 - [从 Visual Studio Code 到 Zed](https://www.ooowl.net/posts/vscode-to-zed/)
 - [为 UptimeFlare 设置飞书通知](https://www.ooowl.net/posts/setup-lark-notification-for-uptimeflare/)
 - [我在用什么：2026](https://www.ooowl.net/posts/what-im-using-2026/)
 - [它很适合我 —— Mole 使用体验](https://www.ooowl.net/posts/mole/)
-- [8 月小结](https://www.ooowl.net/posts/summary-from-032026-to-082026/)
 <!-- BLOG-POST-LIST:END -->
 [阅读更多…… / Read More…](https://blog.ohdragonboi.cn)
 
